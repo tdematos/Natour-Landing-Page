@@ -1,0 +1,14 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Natour Landing Page Project",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss ccs/style.css -w"
+  },
+  "author": "Thiago De Matos",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.69.5"
+  }
+}
